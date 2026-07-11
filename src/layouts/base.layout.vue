@@ -39,11 +39,11 @@ const tools = computed<ToolCategory[]>(() => [
         <HeroGradient class="gradient" />
         <div class="text-wrapper">
           <div class="title">
-            IT - TOOLS
+            柏 捷
           </div>
           <div class="divider" />
           <div class="subtitle">
-            {{ $t('home.subtitle') }}
+            私有化离线开发运维工具箱
           </div>
         </div>
       </RouterLink>
